@@ -1,0 +1,2 @@
+# box
+class example; inheritance
